@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.box{
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#targetDiv{
+    border: 2px solid #0fa3b1 ;
+    height: 149px;
+    width: 200px;
+    /* padding: 20px; */
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    padding: 20px;
+    background-color: white;
+}
+body{
+    background-color: #EDDEA4;
+}
+#backgroundColorSelect{
+    border:  2px solid #0fa3b1  ;
+    
+}
+.box{
+    /* display: flex; */
+    /* flex-direction: column; */
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
